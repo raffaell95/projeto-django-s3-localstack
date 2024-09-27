@@ -1,0 +1,7 @@
+SECRET_KEY = 'm0if)iow1wbym(iufy-rod44t^o7pb3%nxp3gtqndii&x-))_l'
+
+AWS_ACCESS_KEY_ID = 'test'
+
+AWS_SECRET_ACCESS_KEY = 'test'
+
+AWS_STORAGE_BUCKET_NAME = 'fotografias-photo-space'
